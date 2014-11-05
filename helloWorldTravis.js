@@ -1,4 +1,5 @@
-var hw = function () {
+'use strict';
+
+module.exports = function() {
     return 'Hello World Travis!';
-}
-hw();
+};
