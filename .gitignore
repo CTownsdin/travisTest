@@ -1,0 +1,8 @@
+logs
+*.log
+*.test
+*.pid
+*.seed
+.grunt
+.DS_STORE
+node_modules
