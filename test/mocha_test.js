@@ -11,7 +11,6 @@ describe('helloWorldTravis script', function () {
     });
 });
 
-
 describe('begin the Counter tests', function () {
 
     var myCtr = new Counter();
